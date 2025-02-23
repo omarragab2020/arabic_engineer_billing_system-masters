@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1040538263761",
+    "project_id": "al-muhandes",
+    "storage_bucket": "al-muhandes.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1040538263761:android:76c9bb6b037290ad9265f0",
+        "android_client_info": {
+          "package_name": "com.neuss.almuandes_billing_system"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxQxdi3mQWgnwQ1Ptvv5WEjNNDd8lnLAE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1040538263761:android:314837b2c6c1c9049265f0",
+        "android_client_info": {
+          "package_name": "com.neuss.almuhandes_billing_system"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxQxdi3mQWgnwQ1Ptvv5WEjNNDd8lnLAE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
